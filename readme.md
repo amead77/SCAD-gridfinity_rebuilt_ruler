@@ -16,3 +16,5 @@ In total, it is a remix of kennetek's gridfinity boxes, while being inspired by 
 
 there are some mistakes in the code, but it worked and I got the 
 design I wanted out of it ;)
+
+![my printed model](IMG_0654.JPEG)
